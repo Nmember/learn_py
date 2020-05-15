@@ -1,2 +1,2 @@
-# learn_py
-学习python的各种
+＃Learn_py
+学习python
